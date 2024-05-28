@@ -1,25 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.c76cf0f7.css",
-    "main.js": "/static/js/main.ba5d9f4b.js",
-    "static/js/453.c1e7cf2e.chunk.js": "/static/js/453.c1e7cf2e.chunk.js",
-    "static/media/david.jpeg": "/static/media/david.f52f6672ccc9a5230eb0.jpeg",
-    "static/media/miracosta.jpeg": "/static/media/miracosta.4ae227e0aeb126399424.jpeg",
-    "static/media/smile.jpeg": "/static/media/smile.020233bbe62aaf4a7958.jpeg",
-    "static/media/RIT.jpeg": "/static/media/RIT.34d9c2e393c44d1baf84.jpeg",
-    "static/media/UCRBellTower1.jpg": "/static/media/UCRBellTower1.cb73fe1ae2270c03eb0e.jpg",
-    "static/media/DavidJordan Resume.pdf": "/static/media/DavidJordan Resume.89403ac3b67591be63c2.pdf",
-    "static/media/email.png": "/static/media/email.c63ad3be632be09c94be.png",
-    "static/media/github.png": "/static/media/github.4608a5300e1ceced43f3.png",
-    "static/media/resume.png": "/static/media/resume.48eb15c5844ca4c82faa.png",
-    "static/media/linkedin.png": "/static/media/linkedin.9a1a7f8162140e296345.png",
-    "index.html": "/index.html",
-    "main.c76cf0f7.css.map": "/static/css/main.c76cf0f7.css.map",
-    "main.ba5d9f4b.js.map": "/static/js/main.ba5d9f4b.js.map",
-    "453.c1e7cf2e.chunk.js.map": "/static/js/453.c1e7cf2e.chunk.js.map"
+    "main.css": "/djordano15.github.io/static/css/main.63d00749.css",
+    "main.js": "/djordano15.github.io/static/js/main.e407edbf.js",
+    "static/js/453.c1e7cf2e.chunk.js": "/djordano15.github.io/static/js/453.c1e7cf2e.chunk.js",
+    "static/media/david.jpeg": "/djordano15.github.io/static/media/david.f52f6672ccc9a5230eb0.jpeg",
+    "static/media/miracosta.jpeg": "/djordano15.github.io/static/media/miracosta.4ae227e0aeb126399424.jpeg",
+    "static/media/smile.jpeg": "/djordano15.github.io/static/media/smile.020233bbe62aaf4a7958.jpeg",
+    "static/media/RIT.jpeg": "/djordano15.github.io/static/media/RIT.34d9c2e393c44d1baf84.jpeg",
+    "static/media/UCRBellTower1.jpg": "/djordano15.github.io/static/media/UCRBellTower1.cb73fe1ae2270c03eb0e.jpg",
+    "static/media/DavidJordan Resume.pdf": "/djordano15.github.io/static/media/DavidJordan Resume.89403ac3b67591be63c2.pdf",
+    "static/media/java.png": "/djordano15.github.io/static/media/java.86407ffa56ebe1f70b6a.png",
+    "static/media/email.png": "/djordano15.github.io/static/media/email.c63ad3be632be09c94be.png",
+    "static/media/github.png": "/djordano15.github.io/static/media/github.4608a5300e1ceced43f3.png",
+    "static/media/C++.png": "/djordano15.github.io/static/media/C++.3f8430b31b0960aae7e0.png",
+    "static/media/resume.png": "/djordano15.github.io/static/media/resume.48eb15c5844ca4c82faa.png",
+    "static/media/linkedin.png": "/djordano15.github.io/static/media/linkedin.9a1a7f8162140e296345.png",
+    "index.html": "/djordano15.github.io/index.html",
+    "main.63d00749.css.map": "/djordano15.github.io/static/css/main.63d00749.css.map",
+    "main.e407edbf.js.map": "/djordano15.github.io/static/js/main.e407edbf.js.map",
+    "453.c1e7cf2e.chunk.js.map": "/djordano15.github.io/static/js/453.c1e7cf2e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c76cf0f7.css",
-    "static/js/main.ba5d9f4b.js"
+    "static/css/main.63d00749.css",
+    "static/js/main.e407edbf.js"
   ]
 }
