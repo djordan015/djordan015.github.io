@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/static/css/main.737328eb.css",
-    "main.js": "/static/js/main.e634881e.js",
+    "main.js": "/static/js/main.b0591476.js",
     "static/js/453.c1e7cf2e.chunk.js": "/static/js/453.c1e7cf2e.chunk.js",
-    "static/media/david.jpeg": "/static/media/david.f52f6672ccc9a5230eb0.jpeg",
+    "static/media/david.jpeg": "/static/media/david.d22a85084a41d2ec83c7.jpeg",
+    "static/media/smile.jpeg": "/static/media/smile.fc19752ae005631a30eb.jpeg",
     "static/media/miracosta.jpeg": "/static/media/miracosta.4ae227e0aeb126399424.jpeg",
-    "static/media/smile.jpeg": "/static/media/smile.020233bbe62aaf4a7958.jpeg",
     "static/media/RIT.jpeg": "/static/media/RIT.34d9c2e393c44d1baf84.jpeg",
     "static/media/UCRBellTower1.jpg": "/static/media/UCRBellTower1.cb73fe1ae2270c03eb0e.jpg",
     "static/media/DavidJordan Resume.pdf": "/static/media/DavidJordan Resume.89403ac3b67591be63c2.pdf",
@@ -17,11 +17,11 @@
     "static/media/linkedin.png": "/static/media/linkedin.9a1a7f8162140e296345.png",
     "index.html": "/index.html",
     "main.737328eb.css.map": "/static/css/main.737328eb.css.map",
-    "main.e634881e.js.map": "/static/js/main.e634881e.js.map",
+    "main.b0591476.js.map": "/static/js/main.b0591476.js.map",
     "453.c1e7cf2e.chunk.js.map": "/static/js/453.c1e7cf2e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.737328eb.css",
-    "static/js/main.e634881e.js"
+    "static/js/main.b0591476.js"
   ]
 }
