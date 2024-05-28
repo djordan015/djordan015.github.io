@@ -11,6 +11,22 @@ html, body{
 }
 
 
+@media only screen and (max-width: 600px) {
+  .nav-item{
+    font-size: 12px !important;
+  }
+
+  .nav-right{
+    font-size: 12px;
+    padding-top: 10px !important;
+    padding-left: 3px !important; 
+    padding-right: 3px !important;
+    padding-bottom: 20px !important;
+
+  }
+}
+
+
 
 
 .navbar{
@@ -172,23 +188,21 @@ html, body{
   
   left: -120px;
 }
+
+
 @media only screen and (max-width: 600px) {
-  .experience{
-    font-size: 80px !important;
-    left: -120px !important;
-  }
   .job{
     margin-left: 0px;
     margin-right: 0px;
 ;
   }
   .card{
-    position: relative !important;
+    position: static !important;
     max-width: 50% !important;
     max-height: none;
     flex-direction: column;
     z-index: 2 !important;
-    height: 300px;
+    height: 300px !important;
     
   }
 
@@ -197,7 +211,7 @@ html, body{
   }
 
   .card h3{
-    font-size: 34px !important;
+    font-size: 24px !important;
     min-width: none !important;
     max-width: none !important;
     max-height: none !important;
@@ -205,26 +219,24 @@ html, body{
 }
 
 @media only screen and (max-width: 900px) {
+  .card-list{
+    padding-top: 50px;
+  }
   .experience{
-    font-size: 120px !important;
-    position: absolute;
-    font-size: 170px;
-    left: -100px;
-    z-index: 0 !important;
-    transform: rotate(180deg) !important;
+    all: unset;
+    font-size: 52px;
+    font-weight: bold;
+    text-align: center;
   }
   
-
-
 
   .job{
     justify-content: center;
 
   }
   .card{
-    position: relative !important;
-    max-width: 50% !important;
-    max-height: none;
+    position: static !important;
+    max-width: 70% !important;
     flex-direction: column;
     z-index: 2 !important;
     

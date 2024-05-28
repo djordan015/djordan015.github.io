@@ -44,8 +44,9 @@ const Education = () => {
         <div className="coursework">
           <h2>Coursework</h2>
           <ul>
-            <li>Data Structures, Web Development, Operating Systems</li>
-            <li>Linear Algebra, Numerical analysis 1, 2 & 3</li>
+            <li>Data Structures | Web Development | Operating Systems</li>
+            <li>Linear Algebra | Numerical analysis A-C</li>
+            <li>Partial & Ordinary Differential Equations A-C</li>
           </ul>
           <h2>Certifications</h2>
           <ul>
@@ -53,7 +54,7 @@ const Education = () => {
           </ul>
           <h2>Achievements</h2>
           <ul>
-            <li>Computer programming fundamentals with highest honors</li>
+            <li>Computer programming fundamentals with highest honors<em> (MiraCosta)</em></li>
           </ul>
         </div>
       </div>
