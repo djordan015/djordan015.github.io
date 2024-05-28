@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/djordan015.github.io/static/css/main.78c70f80.css",
+    "main.js": "/djordan015.github.io/static/js/main.489a4dbc.js",
+    "static/js/453.c1e7cf2e.chunk.js": "/djordan015.github.io/static/js/453.c1e7cf2e.chunk.js",
+    "static/media/david.jpeg": "/djordan015.github.io/static/media/david.f52f6672ccc9a5230eb0.jpeg",
+    "static/media/miracosta.jpeg": "/djordan015.github.io/static/media/miracosta.4ae227e0aeb126399424.jpeg",
+    "static/media/smile.jpeg": "/djordan015.github.io/static/media/smile.020233bbe62aaf4a7958.jpeg",
+    "static/media/RIT.jpeg": "/djordan015.github.io/static/media/RIT.34d9c2e393c44d1baf84.jpeg",
+    "static/media/UCRBellTower1.jpg": "/djordan015.github.io/static/media/UCRBellTower1.cb73fe1ae2270c03eb0e.jpg",
+    "static/media/DavidJordan Resume.pdf": "/djordan015.github.io/static/media/DavidJordan Resume.89403ac3b67591be63c2.pdf",
+    "static/media/java.png": "/djordan015.github.io/static/media/java.86407ffa56ebe1f70b6a.png",
+    "static/media/email.png": "/djordan015.github.io/static/media/email.c63ad3be632be09c94be.png",
+    "static/media/github.png": "/djordan015.github.io/static/media/github.4608a5300e1ceced43f3.png",
+    "static/media/C++.png": "/djordan015.github.io/static/media/C++.3f8430b31b0960aae7e0.png",
+    "static/media/resume.png": "/djordan015.github.io/static/media/resume.48eb15c5844ca4c82faa.png",
+    "static/media/linkedin.png": "/djordan015.github.io/static/media/linkedin.9a1a7f8162140e296345.png",
+    "index.html": "/djordan015.github.io/index.html",
+    "main.78c70f80.css.map": "/djordan015.github.io/static/css/main.78c70f80.css.map",
+    "main.489a4dbc.js.map": "/djordan015.github.io/static/js/main.489a4dbc.js.map",
+    "453.c1e7cf2e.chunk.js.map": "/djordan015.github.io/static/js/453.c1e7cf2e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78c70f80.css",
+    "static/js/main.489a4dbc.js"
+  ]
+}
