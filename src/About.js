@@ -1,6 +1,6 @@
 import photo from './images/smile.jpeg'
 import resumeLogo from './images/resume.png'
-import resume from './DavidJordan Resume.pdf'
+import resume from './David Jordan Resume FA25 V3.pdf'
 
 
 const About = () => {
